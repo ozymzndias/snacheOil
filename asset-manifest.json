@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/snacheOil/static/css/main.7a8aac61.chunk.css",
+    "main.js": "/snacheOil/static/js/main.a5fc091d.chunk.js",
+    "main.js.map": "/snacheOil/static/js/main.a5fc091d.chunk.js.map",
+    "runtime-main.js": "/snacheOil/static/js/runtime-main.f51f5ad9.js",
+    "runtime-main.js.map": "/snacheOil/static/js/runtime-main.f51f5ad9.js.map",
+    "static/js/2.c22adbb9.chunk.js": "/snacheOil/static/js/2.c22adbb9.chunk.js",
+    "static/js/2.c22adbb9.chunk.js.map": "/snacheOil/static/js/2.c22adbb9.chunk.js.map",
+    "index.html": "/snacheOil/index.html",
+    "static/css/main.7a8aac61.chunk.css.map": "/snacheOil/static/css/main.7a8aac61.chunk.css.map",
+    "static/js/2.c22adbb9.chunk.js.LICENSE.txt": "/snacheOil/static/js/2.c22adbb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51f5ad9.js",
+    "static/js/2.c22adbb9.chunk.js",
+    "static/css/main.7a8aac61.chunk.css",
+    "static/js/main.a5fc091d.chunk.js"
+  ]
+}
